@@ -1,0 +1,3 @@
+CREATE DATABASE Manejo2
+go
+

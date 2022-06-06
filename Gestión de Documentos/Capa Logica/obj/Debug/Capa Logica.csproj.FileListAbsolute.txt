@@ -1,0 +1,7 @@
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.csprojAssemblyReference.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.csproj.CopyComplete

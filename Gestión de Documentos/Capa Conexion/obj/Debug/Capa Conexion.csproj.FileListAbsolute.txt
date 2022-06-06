@@ -1,0 +1,8 @@
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\bin\Debug\Capa Conexion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\bin\Debug\Capa Conexion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.csprojAssemblyReference.cache

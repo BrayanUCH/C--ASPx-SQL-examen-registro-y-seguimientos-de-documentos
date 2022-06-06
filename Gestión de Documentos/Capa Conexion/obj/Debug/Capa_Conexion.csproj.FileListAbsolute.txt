@@ -1,0 +1,18 @@
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.dll
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.pdb
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa_Conexion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.dll
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa_Conexion.csprojAssemblyReference.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.pdb
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.dll
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Conexion.pdb
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa_Conexion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.dll
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Conexion\obj\Debug\Capa Conexion.pdb

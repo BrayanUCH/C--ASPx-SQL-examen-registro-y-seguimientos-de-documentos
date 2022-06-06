@@ -1,0 +1,21 @@
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.pdb
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.dll
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.pdb
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.dll
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.dll
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Logica.pdb
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.dll
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Logica\obj\Debug\Capa Logica.pdb

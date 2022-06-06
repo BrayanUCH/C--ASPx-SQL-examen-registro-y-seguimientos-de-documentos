@@ -1,0 +1,7 @@
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.csprojAssemblyReference.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.csproj.CopyComplete

@@ -1,0 +1,21 @@
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.pdb
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csprojAssemblyReference.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csproj.CopyComplete
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.dll
+C:\Users\BRAYAN\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.pdb
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.dll
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.pdb
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.dll
+C:\Users\Brandon\Desktop\Proyecto\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.pdb
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.dll
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Biblioteca\Capa Integracion.pdb
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa_Integracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.dll
+C:\Users\Brandon\Desktop\Proyecto de Programacion III\Gestión de Documentos\Capa Integracion\obj\Debug\Capa Integracion.pdb
